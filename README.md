@@ -59,4 +59,22 @@ providing sentiment analysis and a QA Chatbot for Conversations with the LLM use
 
 ## Screenshots
 
+![Screenshot from 2024-05-20 04-14-46](https://github.com/ShubhamTiwary914/innersightLLM/assets/67773966/faca2669-3c1f-4f13-a76a-1d39d32042d7)
+
+<br />
+
+![Screenshot from 2024-05-20 04-14-54](https://github.com/ShubhamTiwary914/innersightLLM/assets/67773966/d4f5ec77-d586-48c7-9118-2494fa1b5984)
+
+<br />
+
+![Screenshot from 2024-05-20 04-16-48](https://github.com/ShubhamTiwary914/innersightLLM/assets/67773966/e2afaa6c-134a-4379-aa20-6a613522b5ce)
+
+
+<br />
+
+
+## Video Link - Youtube
+
+[![Video](https://img.youtube.com/vi/ztF8juU62ew/maxresdefault.jpg)](https://www.youtube.com/watch?v=ztF8juU62ew)
+
 
